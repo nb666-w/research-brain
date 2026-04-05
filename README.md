@@ -148,10 +148,6 @@ rb log -t "实验" -v 0.85      # 开始记录
 
 知识库是纯 Markdown，可以用任何编辑器查看，建议纳入 Git 管理。
 
-## 🙏 致敬
-
-- [Karpathy llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) — 持久化知识库模式
-- [Vannevar Bush Memex (1945)](https://en.wikipedia.org/wiki/Memex) — 个人知识存储的先驱
 
 ## License
 
