@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ResearchBrain 数据（每个项目自己的知识库，不应提交到此仓库）
+# 注意：用户的项目中 RESEARCH_BRAIN.md 应该纳入 git 管理
+.research_brain/
