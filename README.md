@@ -2,7 +2,6 @@
 
 **科研 Vibe Coding 知识库 — 让每一次失败都成为 AI 的免疫力。**
 
-> Inspired by [Karpathy's llm-wiki pattern](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f), specialized for scientific research.
 
 一个文件 `RESEARCH_BRAIN.md` 就是你的整个知识库。人和 AI 都能直接阅读和编辑。
 
